@@ -1,3 +1,8 @@
+
+![Bildschirmfoto 2025-04-13 um 01 08 20](https://github.com/user-attachments/assets/aa234b06-2e85-4351-92ff-cb46f264caeb)
+![Bildschirmfoto 2025-04-13 um 01 08 42](https://github.com/user-attachments/assets/df3ff410-4f0b-486a-b7b2-36892d73d643)
+
+
 # 💬 LANChat – Local Communication for LAN Parties
 
 **LANChat** is a simple, browser-based chat and file-sharing system built using **Python Flask**. Designed for **LAN parties**, small gatherings, or offline events, it runs entirely within your local network – **no internet or external server required**.
