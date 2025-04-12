@@ -1,7 +1,3 @@
-Basierend auf deinem **Flask-Code** habe ich den englischen Beschreibungstext für dein GitHub-Repo angepasst, sodass er genau widerspiegelt, was dein Projekt tut. Hier ist die aktualisierte README-Beschreibung:
-
----
-
 # 💬 LANChat – Local Communication for LAN Parties
 
 **LANChat** is a simple, browser-based chat and file-sharing system built using **Python Flask**. Designed for **LAN parties**, small gatherings, or offline events, it runs entirely within your local network – **no internet or external server required**.
