@@ -36,15 +36,11 @@ Created for **LAN parties** or events where multiple users are connected to the 
 
 1. **Download the server.exe**
 2. **allow fierwall rules**
-3. **Run the Flask server**:
-   ```bash
-   python3 app.py
-   ```
-4. **Open your browser and go to**  
+3. **Open your browser and go to**  
    `http://<your-local-ip>:5000`  
    (e.g., `http://192.168.0.100:5000`)
 
-5. **Enter your name and start chatting & uploading!**
+4. **Enter your name and start chatting & uploading!**
 
 ---
 
