@@ -39,7 +39,7 @@ Created for **LAN parties** or events where multiple users are connected to the 
 
 ### 🚀 Getting Started
 
-1. **Download the server.exe blob:https://github.com/a5c31294-72d9-4f1c-97f5-f4c17b40acc3 **
+1. **Download the server.exe from the Downloads Folder**
 2. **allow fierwall rules**
 3. **Open your browser and go to**  
    `http://<your-local-ip>:5000`  
